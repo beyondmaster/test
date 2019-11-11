@@ -1,0 +1,3 @@
+*.py filter=openssl diff=openssl
+[merge]
+	renormalize=true
