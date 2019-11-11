@@ -1,4 +1,4 @@
-./*.py filter=openssl diff=openssl
+test.py filter=openssl diff=openssl
 *.csv filter=openssl diff=openssl
 [merge]
 	renormalize=true
